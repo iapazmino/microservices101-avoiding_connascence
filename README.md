@@ -1,4 +1,4 @@
-microservices101-avoiding_connascence
+Microservices 101: avoiding connascence
 =====================================
 
-Presentation on how to reduce coupling between applications by identifying con nascence and avoiding it.
+Presentation on how to reduce coupling between applications by identifying connascence and avoiding it.
